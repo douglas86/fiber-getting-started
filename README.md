@@ -61,7 +61,7 @@ any other storage system.
 
 #### /model
 
-Defines the data structure or schemas (eg., User, Product). These are
+Defines the data structure or schemas (e.g., User, Product). These are
 used throughout the applicatioon to represent data.
 
 #### /config
